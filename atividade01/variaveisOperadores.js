@@ -1,24 +1,23 @@
-let numA1 = 10, numB1 = 5;
-let resultadoSoma = numA1 + numB1;
-console.log(`Resultado da soma entre ${numA1} e ${numB1} é ${resultadoSoma}`);
+// Operação de Soma
+const numA = 10;
+const numB = 5;
+const soma = numA + numB;
+console.log(`Resultado da soma entre ${numA} e ${numB} é ${soma}`);
 
+// Operação de Subtração
+const numC = 20;
+const numD = 8;
+const subtracao = numC - numD;
+console.log(`Resultado da subtração entre ${numC} e ${numD} é ${subtracao}`);
 
-let numA2 = 20, numB2 = 8;
-let resultadoSubtracao = numA2 - numB2;
-console.log(`Resultado da subtração entre ${numA2} e ${numB2} é ${resultadoSubtracao}`);
+// Operação de Multiplicação
+const numE = 4;
+const numF = 7;
+const multiplicacao = numE * numF;
+console.log(`Resultado da multiplicação entre ${numE} e ${numF} é ${multiplicacao}`);
 
-
-let numA3 = 7, numB3 = 3;
-let resultadoMultiplicacao = numA3 * numB3;
-console.log(`Resultado da multiplicação entre ${numA3} e ${numB3} é ${resultadoMultiplicacao}`);
-
-
-let numA4 = 15, numB4 = 3;
-let resultadoDivisao = numA4 / numB4;
-console.log(`Resultado da divisão entre ${numA4} e ${numB4} é ${resultadoDivisao}`);
-
-
-let numA5 = 10, numB5 = 4;
-let resultadoModulo = numA5 % numB5;
-console.log(`Resultado do módulo entre ${numA5} e ${numB5} é ${resultadoModulo}`);
-// paulo
+// Operação de Divisão
+const numG = 16;
+const numH = 2;
+const divisao = numG / numH;
+console.log(`Resultado da divisão entre ${numG} e ${numH} é ${divisao}`);
