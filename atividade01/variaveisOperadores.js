@@ -21,3 +21,4 @@ console.log(`Resultado da divisão entre ${numA4} e ${numB4} é ${resultadoDivis
 let numA5 = 10, numB5 = 4;
 let resultadoModulo = numA5 % numB5;
 console.log(`Resultado do módulo entre ${numA5} e ${numB5} é ${resultadoModulo}`);
+// paulo
