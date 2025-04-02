@@ -1,0 +1,23 @@
+{
+  "name": "programacao-web-1s-25-pauloeduardo",
+  "version": "1.0.0",
+  "description": "Repositório para colocar atividades efetuadas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloEduardo57/programacao-web-1s-25-pauloeduardo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloEduardo57/programacao-web-1s-25-pauloeduardo/issues"
+  },
+  "homepage": "https://github.com/PauloEduardo57/programacao-web-1s-25-pauloeduardo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
